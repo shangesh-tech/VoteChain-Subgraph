@@ -1,0 +1,8 @@
+{
+  "sepolia": {
+    "VoteChain": {
+      "address": "0x013491434Eb3E9FFE509f0b1A6C04508369866a7",
+      "startBlock": 8595607
+    }
+  }
+}
